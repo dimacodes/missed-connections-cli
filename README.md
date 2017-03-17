@@ -9,7 +9,7 @@ To install:
 To run:
 
     $ cd missed-connections-cli/
-    $ ./missed-connections
+    $ ./bin/missed-connections
 
 To contribute:
 
