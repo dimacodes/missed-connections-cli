@@ -2,7 +2,7 @@
 
 1. Improve functionality to include:
 
-- launch function (uncensored version)
+- launch function (uncensored version):
 "Type view to launch in your browser"
 
 <!-- def launch_post
@@ -11,7 +11,7 @@
     Launchy.open(post.url)
 end -->
 
-- find by keyword:
+- find by keyword
 <!-- def find_by_keyword
 array, iterate, find word
 end -->
