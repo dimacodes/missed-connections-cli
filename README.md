@@ -1,7 +1,5 @@
 # Missed Connections
 
-Craigslist.org's <a href="https://newyork.craigslist.org/search/mis">Missed Connections</a> in the command line. Includes robust censor feature (SFW).
-
 To install:
 
     $ git clone https://github.com/dimitriwashere/missed-connections-cli
