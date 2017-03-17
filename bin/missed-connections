@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+# #!= shebang, points to ruby interpreter
+
+# Notes:
+# Encapsulation
+# Executable file
+# Permissions to execute granted (chmod +x)
+
+require_relative '../config/environment'
+require "bundler/setup"
+# require "missed-connections"
+
+MissedConnections::CLI.new.call
+# Module, Class called CLI, instantiate, call #call method on it
+
+# Module: Modules are a way of grouping together methods, classes, and constants. Two major benefits of using Modules:
+# Modules provide a namespace and prevent name clashes.
+# Modules implement the mixin facility.
