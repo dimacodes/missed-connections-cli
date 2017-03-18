@@ -1,5 +1,7 @@
 # Missed Connections CLI
 
+Includes robust censor feature (SFW).
+
 To install:
 
     $ git clone https://github.com/dimitriwashere/missed-connections-cli
