@@ -1,4 +1,4 @@
-# Missed Connections
+# Missed Connections CLI
 
 To install:
 
@@ -11,4 +11,4 @@ To run:
 
 To contribute:
 
-Fork this repo, add something fun, and submit a pull request! Don't be a stranger!
+Fork this repo, add something good, and submit a pull request! Don't be a stranger!
